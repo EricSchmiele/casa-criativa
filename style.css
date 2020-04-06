@@ -160,6 +160,7 @@ footer a {
 
     width: 100vw;
     height: 100vh;
+    min-height: 1020px;
 
     display: flex;
     justify-content: center;
