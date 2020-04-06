@@ -46,7 +46,8 @@
 
 A project developed during the WorkshopDev by RocketSeat: a simple platform for sharing ideas to do at home during times of quarentine.
 
-<!--## Installing the application
+<!--
+## Installing the application
 
 In order to install the application dependencies, after dowloading or branching you should run the terminal code `npm install` in the following folders:
 
@@ -79,7 +80,8 @@ Back end:
 * [Node.js](https://nodejs.org/en/)
 * [React](https://reactjs.org)
 * [React Native](https://facebook.github.io/react-native/)
-* [Expo](https://expo.io/)-->
+* [Expo](https://expo.io/)
+-->
 
 <!-- ## Layout
 
