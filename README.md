@@ -21,15 +21,11 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<!-- <p align="center">
-    <a href="https://insomnia.rest/run/?label=Be%20The%20Hero%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fvsalbuq%2Fbe-the-hero%2Fmaster%2FInsomnia_2020-03-25.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p> -->
-
 <p align="center">
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!--<a href="#installing-the-application">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!--<a href="#installing-the-application">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
   <a href="#running-the-application">Running</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!--<a href="#testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
   <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
@@ -54,17 +50,13 @@ In order to install the application dependencies, after dowloading or branching 
 * <u>br.com.bethehero/backend/</u>
 * <u>br.com.bethehero/frontend/</u>
 * <u>br.com.bethehero/mobile/</u>
+-->
 
 ## Running the application
 
-On separate terminal tabs, run the code `npm start` on the folders:
+Open the file index.html in your browser.
 
-* <u>br.com.bethehero/backend/</u>
-* <u>br.com.bethehero/frontend/</u>
-* <u>br.com.bethehero/mobile/</u>
-
-Aditionally, in order to run the mobile application, install the <strong>Expo</strong> app on your smart phone from your standard app store and read the QR code that will be generated after running the terminal code in the <u>br.com.bethehero/mobile/</u> folder.
-
+<!--
 ## Testing
 
 All tests can be run using <strong>supertest</strong> with the following line in terminal: `npm test` 
@@ -83,11 +75,13 @@ Back end:
 * [Expo](https://expo.io/)
 -->
 
-<!-- ## Layout
+<!--
+## Layout
 
  You can download the layout (`.sketch`) using [this link](.github/DevRadar.sketch).
 
-To open it in any SO, use [Figma](https://figma.com). -->
+To open it in any SO, use [Figma](https://figma.com).
+-->
 
 ## Contributing
 
