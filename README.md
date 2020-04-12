@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Casa Criativa" title="#casacriativa" src="logo.png" width="250px" />
+    <img alt="Casa Criativa" title="#casacriativa" src="public/logo.png" width="250px" />
 </h1>
 
 <h2 align="center">
@@ -23,11 +23,11 @@
 
 <p align="center">
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!--<a href="#installing-the-application">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
+  <a href="#installing-the-application">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#running-the-application">Running</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!--<a href="#testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!--<a href="#testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
+  <!--<a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
   <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="screen.png" width="50%">
+  <img alt="Frontend" src="public/screen.png" width="50%">
 </p>
 
 
@@ -43,15 +43,9 @@
 
 A project developed during the WorkshopDev by RocketSeat: a simple platform for sharing ideas to do at home during times of quarentine.
 
-<!--
 ## Installing the application
 
-In order to install the application dependencies, after dowloading or branching you should run the terminal code `npm install` in the following folders:
-
-* <u>br.com.bethehero/backend/</u>
-* <u>br.com.bethehero/frontend/</u>
-* <u>br.com.bethehero/mobile/</u>
--->
+In order to install the application dependencies, after dowloading or branching you should run the terminal code `npm install` in the root folder.
 
 ## Running the application
 
@@ -67,14 +61,13 @@ So far there are two tests:
 Back end:
 * ong.spec
 * generateUniqueId.spec
+-->
 
 ## Built with
 
 * [Node.js](https://nodejs.org/en/)
-* [React](https://reactjs.org)
-* [React Native](https://facebook.github.io/react-native/)
-* [Expo](https://expo.io/)
--->
+* [Nodemon](https://www.npmjs.com/package/nodemon)
+* [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 <!--
 ## Layout

@@ -1,0 +1,26 @@
+{
+  "name": "casa-criativa",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">     <img alt=\"Casa Criativa\" title=\"#casacriativa\" src=\"logo.png\" width=\"250px\" /> </h1>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e7r7i7c/casa-criativa.git"
+  },
+  "keywords": [],
+  "author": "Eric F Schmiele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e7r7i7c/casa-criativa/issues"
+  },
+  "homepage": "https://github.com/e7r7i7c/casa-criativa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "nunjucks": "^3.2.1"
+  }
+}

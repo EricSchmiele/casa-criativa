@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<!--
+    HTTP: 
+        Hypertext
+        Transfer
+        Protocol
+    URL:
+        Universal
+        Resource
+        Location
+    HTML:
+        Hypertext: textos que aceitam links e audio visual
+        Markup: Marcação feitas com tags
+        Language: linguagem
+-->
+
+<html lang="pt-br"><!--  Tag HTML  -->
+    <head><!-- Responsável por receber configurações da página -->
+        <meta charset="UTF-8">
+        {% block title %}
+            <title>Casa Criativa</title>
+        {% endblock title %}
+
+        {% include "head.html" %}
+    </head>
+    <body id="{{ bodyId }}">
+        <div id="container">
+
+            {% block content %}
+            {% endblock %}
+
+        </div>
+
+        <!-- Modal -->
+        {% include "modal.html" %}
+
+        <script src="/scripts.js"></script>
+    </body>
+</html>
