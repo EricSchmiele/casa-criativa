@@ -49,7 +49,7 @@ In order to install the application dependencies, after dowloading or branching 
 
 ## Running the application
 
-Open the file index.html in your browser.
+Open the file index.html in your browser or run the terminal code `npm run dev` or `npm run start` in the root folder.
 
 <!--
 ## Testing
